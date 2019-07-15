@@ -1,3 +1,16 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "A Ship Without a Crew"
+theme = "solar-theme-hugo"
+paginate = 3
+
+[menu]
+  [[menu.main]]
+    name = "Episodes"
+    url = "/episodes"
+    weight = -100
+
+  [[menu.main]]
+    name = "Characters"
+    url = "/characters"
+    weight = -200
