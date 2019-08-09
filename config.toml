@@ -24,7 +24,7 @@ paginate = 3
 
     [[menu.main]]
     name = "Loot"
-    url = "/loot"
+    url = "/loot/loot-list/"
 
 # https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
