@@ -22,10 +22,12 @@ paginate = 3
     url = "/locations"
     weight = 0
 
-  [[menu.main]]
-    name = "Absolom Station"
-    identifier = "absolom"
-    ulr = "/locations/absolom-station"
-    parent = "locations"
+    [[menu.main]]
+    name = "Loot"
+    url = "/loot"
 
+# https://gohugo.io/getting-started/configuration/#configure-blackfriday
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
 
