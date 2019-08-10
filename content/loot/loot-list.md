@@ -7,10 +7,13 @@ draft: false
 
 ## Unique & Notable Items
 
-Item                                  | Current Owner 
---------------------------            |:---------------:
-[Perfume, Pheromonal Lv. 5](#perfume) | Lotana
-[Chemalyzer](#chem)                   | Lotana
+Item                                     | Current Owner 
+--------------------------               |:---------------:
+[Perfume, Pheromonal Lv. 5](#perfume)    | Lotana
+[Chemalyzer](#chem)                      | Lotana
+[Serum of Appearance Change](#serum-of-appearance-change)            | N35t0r
+[Storage Goo](#goo500)                   | N35t0r
+
 
 ### Perfume, Pheromonal Lv. 5 {#perfume}
 10 Doses; a single dose lasts an hour.
@@ -37,14 +40,14 @@ A laser drill is a handheld item that resembles a snub-nosed pistol. As a standa
 ### Frictionless Gel
 Sold in plastic tubes, this clear gel is a suspension of millions of microscopic spherical beads that reduce friction between objects. As a standard action, you can apply a dose of frictionless gel to your body to grant yourself a +4 circumstance bonus to Acrobatics checks to use the escape task. You must have at least one hand free to open the tube and apply the gel. A tube contains 5 uses of frictionless gel, and a single use lasts for 1 minute.
 
-### Storage Goo 500
+### Storage Goo 500 {#goo}
 When not in use, storage goo is a ball of slightly luminous putty, 6 inches in diameter, with the consistency of soft chewing gum. Skittermander mystics concocted this goo long ago as a novelty. The stuff’s usefulness, especially for smuggling, has seen its manufacture spread throughout the Veskarium and across known space.
 
 As a standard action, you can squeeze the goo to activate it. If the goo isn’t storing any items, this causes it to glow with blue light and remain active for up to 1 minute. While the goo is active, you can store up to 1 bulk of objects within it without changing the goo’s shape or size, as the objects appear to be deconstructed into blue light. You can store analog one-handed melee weapons, tools, and other simple objects, provided they are no more complex than analog melee weapons and require no power.
 
 If you activate goo that has stored objects inside, those objects reemerge, almost as if they’re being reconstructed in a display of blue light. If you’re holding the goo when the objects reemerge, you can have as many reappear in your hands as you have hands free, and the rest fall to the ground in your space. Once the goo releases stored objects, it turns to dust.
 
-### Serum of Appearance Change
+### Serum of Appearance Change {#serum-of-appearance-change}
 
 Upon drinking this elixir, your coloration and the general form of your features instantly and permanently changes. Within the range that is normal for your race and sex, you can select any skin tone, hair and eye color, and alter the nature of such things as the shape or your nose or chin, the length of your fingers, broadness of your frame, and so on. You are still recognizable as yourself unless you attempt a Disguise check to alter your features enough to conceal your identity (comparing the result of this Disguise check to any effort to determine if you are the same person as your original appearance). In no case can you take on the exact appearance of another creature (even with a Disguise check; the level of control is not that fine).
 
