@@ -1,0 +1,4 @@
+---
+sessionDate:
+players:
+---
