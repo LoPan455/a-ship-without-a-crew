@@ -2,7 +2,7 @@ baseURL = "http://ashipwithoutacrew.info/"
 languageCode = "en-us"
 title = "A Ship Without a Crew"
 theme = "solar-theme-hugo"
-paginate = 3
+paginate = 5
 
 [menu]
   [[menu.main]]
